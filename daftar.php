@@ -54,7 +54,7 @@
   <div class="container">
     <h1>Formulir Pendaftaran Beasiswa</h1>
     <br><br>
-    <form id="registrationForm" method="post">
+    <form id="registrationForm" method="post" action="upload.php" enctype="multipart/form-data">
 
       <!--input nama-->
       <div class="mb-3">

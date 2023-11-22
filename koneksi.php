@@ -1,6 +1,6 @@
 <?php
 // Koneksi ke database
-$servername = "localhost:8111";
+$servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "pendaftaran";
